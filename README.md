@@ -14,7 +14,7 @@ Using SIP Protocol
 5. A regular laptop to host the Asterisk server
 
 # Instructions
-1. Go to the directory where you have installed asterisk (in my case its /etc/asterisk) 
+1. Go to the directory where asterisk is installed (/etc/asterisk) 
 2. Create backup files for sip.conf, extensions.conf and confbridge.conf in the same directory for safety
 3. Create sip.conf by typing sudo vi sip.conf and enter the above code
 4. Similarly do it for the other two files
